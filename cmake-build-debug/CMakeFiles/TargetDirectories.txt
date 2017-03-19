@@ -1,0 +1,3 @@
+C:/Users/estadm/CLionProjects/Intercambiar/cmake-build-debug/CMakeFiles/Intercambiar.dir
+C:/Users/estadm/CLionProjects/Intercambiar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/estadm/CLionProjects/Intercambiar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
